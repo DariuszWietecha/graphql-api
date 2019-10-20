@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "Super Film",
+        "year": "01.01.1999",
+        "rating": 5,
+        "actorsIds": ["1", "2"]
+    },
+    {
+        "id": "2",
+        "title": "Ekstra Film",
+        "year": "01.01.2009",
+        "rating": 4,
+        "actorsIds": ["1"]
+    }
+]

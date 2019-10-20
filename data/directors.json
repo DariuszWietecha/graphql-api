@@ -1,0 +1,15 @@
+[
+    {
+       "id": "1",
+       "name": "Jan",
+       "birthday": "01.02.1970",
+       "country": "Poland"
+    },
+    
+    {
+       "id": "2",
+       "name": "Andrzej",
+       "birthday": "01.01.1960",
+       "country":"Poland"
+    }
+ ]

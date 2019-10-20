@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Super Film",
+        "year": "01.01.1999",
+        "rating": "5",
+        "actors": [
+            {
+                "name": "Arek",
+                "birthday": "01.02.1980",
+                "country": "Poland",
+                "directors": [
+                    {
+                        "name": "Jan",
+                        "birthday": "01.02.1970",
+                        "country": "Poland"
+                    }
+                ]
+            },
+            {
+                "name": "Marek",
+                "birthday": "01.01.1990",
+                "country": "Poland",
+                "directors": [
+                    {
+                        "name": "Andrzej",
+                        "birthday": "01.01.1960",
+                        "country": "Poland"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Ekstra Film",
+        "year": "01.01.2009",
+        "rating": "4",
+        "actors": [
+            {
+                "name": "Arek",
+                "birthday": "01.02.1980",
+                "country": "Poland",
+                "directors": [
+                    {
+                        "name": "Jan",
+                        "birthday": "01.02.1970",
+                        "country": "Poland"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Arek",
+    "birthday": "01.02.1980",
+    "country": "Poland",
+    "directorsIds": ["1"]
+ },
+ 
+ {
+    "id": "2",
+    "name": "Marek",
+    "birthday": "01.01.1990",
+    "country":"Poland",
+    "directorsIds": ["2"]
+ }
+]
