@@ -99,7 +99,7 @@ I implemented unit tests and used TypeScript and TSLint.
 1. Install dependencies and build using `npm install`.
 2. Run API using `npm start`.
 3. GraphQL Playground will be available on [http://localhost:4000](http://localhost:4000). API will be available for external clients on [http://localhost:4000/graphql](http://localhost:4000/graphql).
-4. To build API use `npm build`.
+4. To build API use `npm run build`.
 
 ### Unit test
 1. To run unit tests execute `npm test`
